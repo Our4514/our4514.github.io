@@ -41,8 +41,12 @@ Our team consists of 14 lovely members. The following are their respective resea
 | Service computing | Service computing | Service computing | Smart contract bug detection | Smart contract bug detection | Smart contract bug detection |
 | 1| 1 | 1 | 1| 1 | 1 |
 
+  
 
-
+| Mengqiao Shao (SE master) | Shijun Ye (CS master) | Tianhao Yuan (CS master)| Qiyin Dai (CS master) | Wennan Cao (SE master) | Meng Zhang (CS master)|
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Service recommendation | AI Testing | AI Testing | AI Testing | Rainfall forecasting | Smart contract bug detection |
+| 1| 1 | 1 | 1| 1 | 1 |
 
 
 
