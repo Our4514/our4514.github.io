@@ -38,23 +38,11 @@ Our team consists of 14 lovely members. The following are their respective resea
 
 | Huiying Jin (SE Ph.D.) | Service computing | 1 | Yaling Zhang (CS master) | Service computing | 1 |
 | Xinmiao Wei (SE master)| Service computing | 1 | Jianan Yu (CS master)  | Smart contract bug detection | 1 |
-| Feng Xiao (SE master) | Smart contract bug detection | 1 | Meng Zhang (CS master) | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-
-|  |  | |  |  | | Zhipeng Gao (CS master) | Mengqiao Shao (SE master) | Cheng Gao (CS master) | Shijun Ye (CS master) | Tianhao Yuan (CS master)| Qiyin Dai (CS master) | Wennan Cao (SE master) | Rui Yang (SE master)|
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  |  |  |   |  | Smart contract bug detection | Data visualization | Service recommendation | Service recommendation | AI Testing | AI Testing | AI Testing | Rainfall forecasting | Smart contract bug detection | Data visualization |
-| 1| 1 | 1 | 1| 1 | 1 | 1 | 1| 1 | 1 | 1| 1 | 1 | 1 |
-
-  
-
-
-
-
-
+| Feng Xiao (SE master) | Smart contract bug detection | 1 | Meng Zhang (CS master) | Smart contract bug detection | 1 |
+| Zhipeng Gao (CS master) | Data visualization | 1 | Mengqiao Shao (SE master) | Service recommendation | 1 |
+| Cheng Gao (CS master) | Service recommendation | 1 | Shijun Ye (CS master) | AI Testing | 1 |
+| Tianhao Yuan (CS master) | AI Testing | 1 | Qiyin Dai (CS master) | AI Testing | 1 |
+| Wennan Cao (SE master) | Rainfall forecasting | 1 |Rui Yang (SE master)| Data visualization | 1 |
 
 
 
