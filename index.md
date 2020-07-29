@@ -6,7 +6,7 @@ This is the Pengcheng Zhang team of Hohai University. We now have 14 members (1 
 
 
 ## Existing work
-Here, we list some existing works, part of which have open-source code.
+Here, we list some existing research results, part of which have open-source code.
 ### Service computing
 - Zhang, P., Jin, H., Dong, H., Song, W., Bouguettaya. A., 2020. Privacy-Preserving QoS Forecasting in Mobile Edge Environments. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2020.2977018
 - Zhang, P., Jin, H., Dong, H., Song, W., Wang, L.,2019. LA-LMRBF: Online and Long-term Web Service QoS Forecasting. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2019.2901848
@@ -38,10 +38,10 @@ Our team consists of 14 lovely members. The following are their respective resea
 
 | Huiying Jin (SE Ph.D.) | Service computing | 1 | Yaling Zhang (CS master) | Service computing | 1 |
 | Xinmiao Wei (SE master)| Service computing | 1 | Jianan Yu (CS master)  | Smart contract bug detection | 1 |
-| Feng Xiao (SE master) | Smart contract bug detection | 1 | Meng Zhang (CS master) | Smart contract bug detection | 1 |
+| Feng Xiao (SE master) | Smart contract bug detection | [account](https://github.com/xf97) | Meng Zhang (CS master) | Smart contract bug detection | 1 |
 | Zhipeng Gao (CS master) | Data visualization | 1 | Mengqiao Shao (SE master) | Service recommendation | 1 |
 | Cheng Gao (CS master) | Service recommendation | 1 | Shijun Ye (CS master) | AI Testing | 1 |
-| Tianhao Yuan (CS master) | AI Testing | 1 | Qiyin Dai (CS master) | AI Testing | 1 |
+| Tianhao Yuan (CS master) | AI Testing | [account](https://github.com/hohaiyth)] | Qiyin Dai (CS master) | AI Testing | 1 |
 | Wennan Cao (SE master) | Rainfall forecasting | 1 |Rui Yang (SE master)| Data visualization | 1 |
 
 
