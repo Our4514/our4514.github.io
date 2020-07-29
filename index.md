@@ -36,17 +36,17 @@ Here, we list some existing works, part of which have open-source code.
 ## Team member
 Our team consists of 14 lovely members. The following are their respective research interests and personal *GitHub* accounts:
 
-| Huiying Jin (SE Ph.D.) | Yaling Zhang (CS master) | Xinmiao Wei (SE master)| Jianan Yu (CS master) | Feng Xiao (SE master) | Meng Zhang (CS master)|
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Service computing | Service computing | Service computing | Smart contract bug detection | Smart contract bug detection | Smart contract bug detection |
-| 1| 1 | 1 | 1| 1 | 1 |
+| Huiying Jin (SE Ph.D.) | Yaling Zhang (CS master) | Xinmiao Wei (SE master)| Jianan Yu (CS master) | Feng Xiao (SE master) | Meng Zhang (CS master)| Zhipeng Gao (CS master)
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Service computing | Service computing | Service computing | Smart contract bug detection | Smart contract bug detection | Smart contract bug detection | Data visualization |
+| 1| 1 | 1 | 1| 1 | 1 | 1 |
 
   
 
-| Mengqiao Shao (SE master) | Shijun Ye (CS master) | Tianhao Yuan (CS master)| Qiyin Dai (CS master) | Wennan Cao (SE master) | Meng Zhang (CS master)|
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Service recommendation | AI Testing | AI Testing | AI Testing | Rainfall forecasting | Smart contract bug detection |
-| 1| 1 | 1 | 1| 1 | 1 |
+| Mengqiao Shao (SE master) | Cheng Gao (CS master) | Shijun Ye (CS master) | Tianhao Yuan (CS master)| Qiyin Dai (CS master) | Wennan Cao (SE master) | Rui Yang (SE master)|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Service recommendation | Service recommendation | AI Testing | AI Testing | AI Testing | Rainfall forecasting | Smart contract bug detection | Data visualization |
+| 1| 1 | 1 | 1| 1 | 1 | 1 |
 
 
 
