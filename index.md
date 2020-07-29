@@ -36,9 +36,17 @@ Here, we list some existing works, part of which have open-source code.
 ## Team member
 Our team consists of 14 lovely members. The following are their respective research interests and personal *GitHub* accounts:
 
-| Huiying Jin (SE Ph.D.) | Yaling Zhang (CS master) | Xinmiao Wei (SE master)| Jianan Yu (CS master) | Feng Xiao (SE master) | Meng Zhang (CS master)| Zhipeng Gao (CS master) | Mengqiao Shao (SE master) | Cheng Gao (CS master) | Shijun Ye (CS master) | Tianhao Yuan (CS master)| Qiyin Dai (CS master) | Wennan Cao (SE master) | Rui Yang (SE master)|
+| Huiying Jin (SE Ph.D.) | Service computing | 1 | Yaling Zhang (CS master) | Service computing | 1 |
+| Xinmiao Wei (SE master)| Service computing | 1 | Jianan Yu (CS master)  | Smart contract bug detection | 1 |
+| Feng Xiao (SE master) | Smart contract bug detection | 1 | Meng Zhang (CS master) | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+|  |  | |  |  | | Zhipeng Gao (CS master) | Mengqiao Shao (SE master) | Cheng Gao (CS master) | Shijun Ye (CS master) | Tianhao Yuan (CS master)| Qiyin Dai (CS master) | Wennan Cao (SE master) | Rui Yang (SE master)|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Service computing | Service computing | Service computing | Smart contract bug detection | Smart contract bug detection | Smart contract bug detection | Data visualization | Service recommendation | Service recommendation | AI Testing | AI Testing | AI Testing | Rainfall forecasting | Smart contract bug detection | Data visualization |
+|  |  |  |   |  | Smart contract bug detection | Data visualization | Service recommendation | Service recommendation | AI Testing | AI Testing | AI Testing | Rainfall forecasting | Smart contract bug detection | Data visualization |
 | 1| 1 | 1 | 1| 1 | 1 | 1 | 1| 1 | 1 | 1| 1 | 1 | 1 |
 
   
