@@ -35,8 +35,15 @@ Here, we list some existing works, part of which have open-source code.
 
 ## Team member
 Our team consists of 14 lovely members. The following are their respective research interests and personal *GitHub* accounts:
+
 | Huiying Jin (SE Ph.D.) | Yaling Zhang (CS master) | Xinmiao Wei (SE master)|
+| ---- | ---- | ---- |
 | Service computing | Service computing | Service computing |
+| 1| 1 | 1 |
+
+| Jianan Yu (CS master) | Feng Xiao (SE master) | Meng Zhang (CS master)|
+| ---- | ---- | ---- |
+| Smart contract bug detection | Smart contract bug detection | Smart contract bug detection |
 | 1| 1 | 1 |
 
 
