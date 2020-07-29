@@ -17,8 +17,8 @@ Here, we list some existing works, part of which have open-source code.
 
 ### Smart contract bug detection
 - Zhang, Pengcheng & Yu, Jianan & Ji, Shunhui. "ADF-GA: Data Flow Criterion Based Test Case Generation for Ethereum Smart Contracts,"in 2020 IEEE/ACM 3rd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB)
-- Zhang, Pengcheng, Feng Xiao, and Xiapu Luo. "SolidityCheck: Quickly Detecting Smart Contract Problems Through Regular Expressions." arXiv preprint arXiv:1911.09425 (2019). [open-source url](https://github.com/xf97/SolidityCheck)
-- Zhang, Pengcheng, Feng Xiao, and Xiapu Luo. "A Framework and Data Set for Bugs in Ethereum Smart Contracts." [open-source url](https://github.com/xf97/JiuZhou)
+- Zhang, Pengcheng, Feng Xiao, and Xiapu Luo. "SolidityCheck: Quickly Detecting Smart Contract Problems Through Regular Expressions." arXiv preprint arXiv:1911.09425 (2019). [**open-source URL**](https://github.com/xf97/SolidityCheck)
+- Zhang, Pengcheng, Feng Xiao, and Xiapu Luo. "A Framework and Data Set for Bugs in Ethereum Smart Contracts." [**open-source URL**](https://github.com/xf97/JiuZhou)
 
 
 ### AI testing
@@ -31,7 +31,7 @@ Here, we list some existing works, part of which have open-source code.
 
 ### rainfall forecasting
 - Zhang, P., Jia, Y., Gao, J., Song W., and Leung, H.  Short-term Rainfall Forecasting Using Multi-layer Perceptron. IEEE Transactions on Big Data. DOI: 10.1109/TBDATA.2018.2871151
-- Zhang, Pengcheng & Cao, Wennan & Li, Wenrui. (2020). Surface and high-altitude combined rainfall forecasting using convolutional neural network. Peer-to-Peer Networking and Applications. 10.1007/s12083-020-00938-x. [open-source url](https://github.com/HHUsimba/Surface-and-High-altitude-Combined-Rainfall-Forecasting-Using-Convolutional-Neural-Network)
+- Zhang, Pengcheng & Cao, Wennan & Li, Wenrui. (2020). Surface and high-altitude combined rainfall forecasting using convolutional neural network. Peer-to-Peer Networking and Applications. 10.1007/s12083-020-00938-x. [**open-source URL**](https://github.com/HHUsimba/Surface-and-High-altitude-Combined-Rainfall-Forecasting-Using-Convolutional-Neural-Network)
 
 
 ## Other problems
