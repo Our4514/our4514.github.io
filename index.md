@@ -29,9 +29,16 @@ Here, we list some existing works, part of which have open-source code.
 - Zhang, P., Xiong, F., Leung, H. and Song W., Sept., 2018. FunkR-pDAE: Personalized Project Recommendation Using Deep Learning. IEEE Transactions on Emerging Topics in Computing. DOI: 10.1109/TETC.2018.2870734
 
 
-### rainfall forecasting
+### Rainfall forecasting
 - Zhang, P., Jia, Y., Gao, J., Song W., and Leung, H.  Short-term Rainfall Forecasting Using Multi-layer Perceptron. IEEE Transactions on Big Data. DOI: 10.1109/TBDATA.2018.2871151
 - Zhang, Pengcheng & Cao, Wennan & Li, Wenrui. (2020). Surface and high-altitude combined rainfall forecasting using convolutional neural network. Peer-to-Peer Networking and Applications. 10.1007/s12083-020-00938-x. [**open-source URL**](https://github.com/HHUsimba/Surface-and-High-altitude-Combined-Rainfall-Forecasting-Using-Convolutional-Neural-Network)
+
+## Team member
+Our team consists of 14 lovely members. The following are their respective research interests and personal *GitHub* accounts:
+| Huiying Jin (SE Ph.D.) | Yaling Zhang (CS master) | Xinmiao Wei (SE master)|
+| Service computing | Service computing | Service computing |
+| 1| 1 | 1 |
+
 
 
 ## Other problems
