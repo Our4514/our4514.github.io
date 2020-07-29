@@ -9,7 +9,7 @@ We are the Pengcheng Zhang team of Hohai University. We now have 14 members (1 P
 Here, we list some existing research results, part of which have open-source code.
 ### Service computing
 - Zhang, P., Jin, H., Dong, H., Song, W., Bouguettaya. A., 2020. Privacy-Preserving QoS Forecasting in Mobile Edge Environments. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2020.2977018
-- Zhang, P., Jin, H., Dong, H., Song, W., Wang, L.,2019. LA-LMRBF: Online and Long-term Web Service QoS Forecasting. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2019.2901848
+- Zhang, P., Jin, H., Dong, H., Song, W., Wang, L.,2019. LA-LMRBF: Online and Long-term Web Service QoS Forecasting. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2019.2901848 [**open-source URL**](https://github.com/QXL4515/QoS-prediction-MulA-LMRBF)
 - Zhang, P., Jin, H., Dong, H., Song, W., Nov., 2019. M-BSRM: Multivariate BayeSian Runtime QoS Monitoring Using Point Mutual Information. IEEE Transactions on Services Computing. DOI: 10.1109/TSC.2019.2952604
 - H. Jin, P. Zhang, and H. Dong, "Security-aware QoS forecastingin mobile edge computing based on federated learning," in 2020 IEEE International Conference on Web Services (ICWS), IEEE, 2020.  
 - P. Zhang, Y. Zhang, H. Dong, and H. Jin, "Multivariate QoS Monitoring in Mobile Edge Computing based on Bayesian Classifier and Rough Set," in 2020 IEEE International Conference on Web Services (ICWS), IEEE, 2020.
@@ -22,15 +22,14 @@ Here, we list some existing research results, part of which have open-source cod
 
 
 ### AI testing
-- Zhang, Pengcheng & Dai, Qiyin & Pelliccione, Patrizio. (2019). CAGFuzz: Coverage-Guided Adversarial Generative Fuzzing Testing of Deep Learning Systems. 
+- Zhang, Pengcheng & Dai, Qiyin & Pelliccione, Patrizio. (2019). CAGFuzz: Coverage-Guided Adversarial Generative Fuzzing Testing of Deep Learning Systems. [**open-source URL**](https://github.com/Our4514/CAGFUZZ)
 - Zhang, Pengcheng & Dai, Qiyin & Ji, Shunhui. (2019). Condition-Guided Adversarial Generative Testing for Deep Learning Systems. 71-72. 10.1109/AITest.2019.000-5. 
 
 ### Service recommendation
-- Zhang, P., Xiong, F., Leung, H. and Song W., Sept., 2018. FunkR-pDAE: Personalized Project Recommendation Using Deep Learning. IEEE Transactions on Emerging Topics in Computing. DOI: 10.1109/TETC.2018.2870734
-
+- Zhang, P., Xiong, F., Leung, H. and Song W., Sept., 2018. FunkR-pDAE: Personalized Project Recommendation Using Deep Learning. IEEE Transactions on Emerging Topics in Computing. DOI: 10.1109/TETC.2018.2870734 [**open-source URL**](https://github.com/Our4514/FunkR-pDAE)
 
 ### Rainfall forecasting
-- Zhang, P., Jia, Y., Gao, J., Song W., and Leung, H.  Short-term Rainfall Forecasting Using Multi-layer Perceptron. IEEE Transactions on Big Data. DOI: 10.1109/TBDATA.2018.2871151
+- Zhang, P., Jia, Y., Gao, J., Song W., and Leung, H.  Short-term Rainfall Forecasting Using Multi-layer Perceptron. IEEE Transactions on Big Data. DOI: 10.1109/TBDATA.2018.2871151 [**open-source URL**](https://github.com/Our4514/DRCF)
 - Zhang, Pengcheng & Cao, Wennan & Li, Wenrui. (2020). Surface and high-altitude combined rainfall forecasting using convolutional neural network. Peer-to-Peer Networking and Applications. 10.1007/s12083-020-00938-x. [**open-source URL**](https://github.com/HHUsimba/Surface-and-High-altitude-Combined-Rainfall-Forecasting-Using-Convolutional-Neural-Network)
 
 ## Team member
