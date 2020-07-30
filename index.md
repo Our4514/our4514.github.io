@@ -35,12 +35,12 @@ Here, we list some existing research results, part of which have open-source cod
 ## Team member
 Our team consists of 14 lovely members. The following are their respective research interests and personal *GitHub* accounts:
 
-| Huiying Jin (SE Ph.D.) | Service computing | [account](https://github.com/hyjin1996) | Yaling Zhang (CS master) | Service computing | 1 |
+| Huiying Jin (SE Ph.D.) | Service computing | [account](https://github.com/hyjin1996) | Yaling Zhang (CS master) | Service computing | [account](https://github.com/zyl1848) |
 | Xinmiao Wei (SE master)| Service computing | [account](https://github.com/CeamoVae) | Jianan Yu (CS master)  | Smart contract bug detection | [account](https://github.com/MoiraYjn) |
 | Feng Xiao (SE master) | Smart contract bug detection | [account](https://github.com/xf97) | Meng Zhang (CS master) | Smart contract bug detection | [account](https://github.com/huahuae) |
 | Zhipeng Gao (CS master) | Data visualization | [account](https://github.com/Zhipeng-Gao) | Mengqiao Shao (SE master) | Service recommendation | [account](https://github.com/hetaosmq) |
 | Cheng Gao (CS master) | Service recommendation | [account](https://github.com/goryeon) | Shijun Ye (CS master) | AI Testing | [account](https://github.com/louiskeli) |
-| Tianhao Yuan (CS master) | AI Testing | [account](https://github.com/hohaiyth)] | Qiyin Dai (CS master) | AI Testing | 1 |
+| Tianhao Yuan (CS master) | AI Testing | [account](https://github.com/hohaiyth)] | Qiyin Dai (CS master) | AI Testing | [account](https://github.com/Dai1996) |
 | Wennan Cao (SE master) | Rainfall forecasting | [account](https://github.com/HHUsimba) |Rui Yang (SE master)| Data visualization | [account](https://github.com/YROOM) |
 
 
