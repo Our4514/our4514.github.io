@@ -16,14 +16,14 @@ Here, we list some existing research results, part of which have open-source cod
 
 
 ### Smart contract bug detection
-- Zhang, Pengcheng & Yu, Jianan & Ji, Shunhui. "ADF-GA: Data Flow Criterion Based Test Case Generation for Ethereum Smart Contracts,"in 2020 IEEE/ACM 3rd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB)
-- Zhang, Pengcheng, Feng Xiao, and Xiapu Luo. "SolidityCheck: Quickly Detecting Smart Contract Problems Through Regular Expressions." arXiv preprint arXiv:1911.09425 (2019). [**open-source URL**](https://github.com/xf97/SolidityCheck)
+- Zhang, Pengcheng, Jianan Yu, and Shunhui Ji. "ADF-GA: Data Flow Criterion Based Test Case Generation for Ethereum Smart Contracts." in 2020 IEEE/ACM 3rd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB)
+- Zhang P, Xiao F, Luo X. SolidityCheck: Quickly Detecting Smart Contract Problems Through Regular Expressions[J]. arXiv preprint arXiv:1911.09425, 2019. [**open-source URL**](https://github.com/xf97/SolidityCheck)
 - Zhang, Pengcheng, Feng Xiao, and Xiapu Luo. "A Framework and Data Set for Bugs in Ethereum Smart Contracts." [**open-source URL**](https://github.com/xf97/JiuZhou)
 
 
 ### AI testing
-- Zhang, Pengcheng & Dai, Qiyin & Pelliccione, Patrizio. (2019). CAGFuzz: Coverage-Guided Adversarial Generative Fuzzing Testing of Deep Learning Systems. [**open-source URL**](https://github.com/Our4514/CAGFUZZ)
-- Zhang, Pengcheng & Dai, Qiyin & Ji, Shunhui. (2019). Condition-Guided Adversarial Generative Testing for Deep Learning Systems. 71-72. 10.1109/AITest.2019.000-5. 
+- Zhang, Pengcheng, Qiyin Dai, and Patrizio Pelliccione. "CAGFuzz: Coverage-Guided Adversarial Generative Fuzzing Testing of Deep Learning Systems." arXiv preprint arXiv:1911.07931 (2019). [**open-source URL**](https://github.com/Our4514/CAGFUZZ)
+- Zhang, Pengcheng, Qiyin Dai, and Shunhui Ji. "Condition-guided adversarial generative testing for deep learning systems." 2019 IEEE International Conference On Artificial Intelligence Testing (AITest). IEEE, 2019.
 
 ### Service recommendation
 - Zhang, P., Xiong, F., Leung, H. and Song W., Sept., 2018. FunkR-pDAE: Personalized Project Recommendation Using Deep Learning. IEEE Transactions on Emerging Topics in Computing. DOI: 10.1109/TETC.2018.2870734 [**open-source URL**](https://github.com/Our4514/FunkR-pDAE)
