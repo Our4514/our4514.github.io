@@ -18,7 +18,7 @@ Here, we list some existing research results, part of which have open-source cod
 ### Smart contract bug detection
 - Zhang, Pengcheng, Jianan Yu, and Shunhui Ji. "ADF-GA: Data Flow Criterion Based Test Case Generation for Ethereum Smart Contracts." in 2020 IEEE/ACM 3rd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB) [**open-source URL**](https://github.com/Our4514/ADF-GA)
 - Zhang P, Xiao F, Luo X. SolidityCheck: Quickly Detecting Smart Contract Problems Through Regular Expressions[J]. arXiv preprint arXiv:1911.09425, 2019. [**open-source URL**](https://github.com/xf97/SolidityCheck)
-- Zhang, Pengcheng, Feng Xiao, and Xiapu Luo. "A Framework and Data Set for Bugs in Ethereum Smart Contracts." [**open-source URL**](https://github.com/xf97/JiuZhou)
+- Zhang, Pengcheng, Feng Xiao, and Xiapu Luo. "A Framework and Data Set for Bugs in Ethereum Smart Contracts." in 2020 IEEE International Conference on Software Maintenance and Evolution (ICSME), IEEE, 2020. [**open-source URL**](https://github.com/xf97/JiuZhou)
 
 
 ### AI testing
